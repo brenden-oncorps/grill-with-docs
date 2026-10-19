@@ -4,5 +4,3 @@ description: A relentless interview to sharpen a plan or design, which also crea
 disable-model-invocation: true
 license: MIT
 ---
-
-Call the Skill tool twice, for "grilling" and "domain-modeling".
