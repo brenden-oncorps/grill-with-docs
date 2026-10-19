@@ -1,0 +1,20 @@
+skills/engineering/grill-with-docs/.claude-plugin/plugin.json
+  s_9f32139db6a6df::t_f9956a28a9013e 3-4
+  s_9f32139db6a6df::t_21af5181cb95f2 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0b6c20e75bd05f128ec2af16df114d0f6dbd43c8",
+  "prompts": {},
+  "sessions": {
+    "s_9f32139db6a6df": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c6264c56-1100-4c65-9455-f34f5d2905cd",
+        "model": "grok-4.7"
+      },
+      "human_author": "brenden-oncorps <brenden@oncorps.io>"
+    }
+  }
+}
